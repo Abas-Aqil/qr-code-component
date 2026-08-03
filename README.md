@@ -37,7 +37,7 @@ https://abas-aqil.github.io/qr-code-component/
 
 ## 💻 GitHub Repository
 
-https://github.com/abas-aqil/qr-code-componen
+https://github.com/abas-aqil/qr-code-component
 
 ---
 
