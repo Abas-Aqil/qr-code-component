@@ -31,13 +31,13 @@ During this project, I practiced:
 
 ## 🔗 Live Demo
 
-https://abas-aqil.github.io/frontend-mentor-qr-code/
+https://abas-aqil.github.io/qr-code-component/
 
 ---
 
 ## 💻 GitHub Repository
 
-https://github.com/abas-aqil/frontend-mentor-qr-code
+https://github.com/abas-aqil/qr-code-componen
 
 ---
 
